@@ -58,7 +58,7 @@ print(f"Model Accuracy on Unseen Data: {accuracy}")
 ### Graphs:
 
 1. **Feature Importance:**
-   - ![Feature Importance](url_to_feature_importance_plot)
+   - ![Feature Importance](https://github.com/vennisabarfi/Machine-Learning-Models-for-HR-Data/blob/main/model_predictions.png)
 
 2. **Confusion Matrix:**
    - ![Confusion Matrix](https://github.com/vennisabarfi/Machine-Learning-Models-for-HR-Data/blob/main/confusion_matrix.png)
