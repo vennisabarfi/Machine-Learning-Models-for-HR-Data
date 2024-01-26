@@ -61,7 +61,7 @@ print(f"Model Accuracy on Unseen Data: {accuracy}")
    - ![Feature Importance](url_to_feature_importance_plot)
 
 2. **Confusion Matrix:**
-   - ![Confusion Matrix](url_to_confusion_matrix_plot)
+   - ![Confusion Matrix](https://github.com/vennisabarfi/Machine-Learning-Models-for-HR-Data/blob/main/confusion_matrix.png)
 
 ### Getting Started:
 
